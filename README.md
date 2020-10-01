@@ -8,6 +8,8 @@ In fact, to my surprise, game development per se was not that much of a challeng
 
 It allowed me to grasp basic understanding of the python language and how to run it on MAC
 
+__Yes, i could have commented my code, i myself can't understand it any more...__
+
 ## Content
 
 * The game script : gamev33.py
