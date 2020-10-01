@@ -1,6 +1,6 @@
 ## PYTHON-TETRIS
 
-![Screen capture](screen-capture.png.png)
+![Screen capture](screen-capture.png)
 
 This very minimal version of tetris made with python was the first project i did back in early 2019, as i had just decided to switch careers into software development.
 
