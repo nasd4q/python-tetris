@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# make sure we are in the relevant folder - the same where this script located
+cd $(dirname $BASH_SOURCE)
+
+# create virtual env
+virtualenv -p $(which python3) venv 
+source venv/bin/activate
+
+# install requirements in virtual env
+pip3 install -r requirements.txt
