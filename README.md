@@ -2,13 +2,7 @@
 
 ![Screen capture](screen-capture.png)
 
-This very minimal version of tetris made with python was the first project i did back in early 2019, as i had just decided to switch careers into software development.
-
-In fact, to my surprise, game development per se was not that much of a challenge and only needed a few hours, while i had to research for the better part of the weekend just how to run a basic python script, make it work with a 3rd party dependency (here pygame), how to use virtual envs, etc... And why it kept bugging for no apparent reason (turned out to be a compabitility issue between different versions of mac OS and the pygame library...)
-
-It allowed me to grasp basic understanding of the python language and how to run it on MAC
-
-__Yes, i could have commented my code, i myself can't understand it any more...__
+Minimal version of tetris made with python for the purpose of learning to code...
 
 ## Content
 
@@ -18,9 +12,9 @@ __Yes, i could have commented my code, i myself can't understand it any more..._
 
 ## OS requirements
 
-* It is definitely running as intended on a 10.14.6 Mojave Mac, with python3 (3.7.7),pip (20.2.3) and virtualenv (20.0.31) installed. But i guess it should work fine on other OSes running python
+* Works on a 10.14.6 Mojave Mac, with python3 (3.7.7),pip (20.2.3) and virtualenv (20.0.31) installed. Should work on any OS running python
 
-* Be able to run bash script if you want to use those for easy usage
+* Optional : run bash scripts
 
 ### How to use
 
