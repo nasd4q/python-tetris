@@ -8,7 +8,7 @@ Minimal version of tetris made with python for the purpose of learning to code..
 
 * The game script : gamev33.py
 * The pip requirements : requirements.txt
-* 3 bash scripts for hassle-free use
+* 3 bash scripts for easy use
 
 ## OS requirements
 
