@@ -10,14 +10,14 @@ Minimal version of tetris made with python for the purpose of learning to code..
 * The pip requirements : requirements.txt
 * 3 bash scripts 
 
-## OS requirements
+## Requirements
 
 * Python3 (3.7.7),pip (20.2.3) and virtualenv (20.0.31) 
 
-### How to use
+## How to use
 
 * Download ZIP from github and unzip
 * command line from this folder : 
-     OPTIONAL - create virtual env and activate it
-     1. install the requirements : `pip3 install -r requirements.txt` (pygame)
-     2. `python3 gamev33.py`
+     - OPTIONAL - create virtual env and activate it
+     - install the requirements : `pip3 install -r requirements.txt` (pygame)
+     - `python3 gamev33.py`
