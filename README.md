@@ -17,7 +17,7 @@ Minimal version of tetris made with python for the purpose of learning to code..
 ## How to use
 
 * Download ZIP from github and unzip
-* command line from this folder : 
+* command line from unzipped folder : 
      - OPTIONAL - create virtual env and activate it
      - install the requirements : `pip3 install -r requirements.txt` (pygame)
      - `python3 gamev33.py`
